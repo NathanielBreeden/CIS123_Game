@@ -1,4 +1,4 @@
-# CIS123_Game
+# Python_Game
 
 import random
 
